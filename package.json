@@ -4,6 +4,9 @@
   "description": "Cryptocurrency Tracker",
   "author": "Dapp University",
   "homepage": ".",
+   "engines": {
+    "node": "8.11.1"
+  },
   "dependencies": {
     "axios": "^0.20.0",
     "babel-polyfill": "6.26.0",
