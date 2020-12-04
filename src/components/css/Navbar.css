@@ -1,0 +1,33 @@
+.format {
+	display: flex; 
+	flex-direction: row; 
+}
+
+.title{
+	margin-top: 2%;
+	font-size: 32px;
+	color: white;
+	text-decoration: none;
+}
+
+.test > a {
+	text-decoration: none;
+}
+
+.menuLabel{
+	font-size: 21px;
+	margin-top: 16%;
+}
+
+.format > a {
+
+	font-size: 32px;
+	color: white;
+	text-decoration: none;
+}
+
+.format> li a {
+
+	color: white;
+	text-decoration: none;
+}

@@ -1,0 +1,95 @@
+.home{
+	display: flex;
+	flex-direction: column;
+	height: 200vh;
+	
+}
+
+.Box1{
+	height: 100%;
+	background-image: url(../pictures/texture.jpg);
+}
+
+.Box2{
+	height : 100%;
+	background-image: url(../pictures/bricks.jpg);
+	background-size: 100% 110%;
+}
+
+.title1 {
+	margin-top: 7%;
+	font-size: 60px; 
+	margin-left: 2%;
+	color: #dbd9d9;
+}
+
+.title2 {
+	margin-top: 5%;
+	font-size: 45px; 
+	max-width: 50%;
+	margin-left: 2%;
+	color: #dbd9d9;
+}
+
+.title3 {
+	margin-top: 5%;
+	font-size: 55px; 
+	max-width: 50%;
+	margin-left: 2%;
+	color: #dbd9d9;
+}
+
+.title4 {
+	margin-top: 22%;
+	font-size: 45px; 
+	max-width: 50%;
+	margin-left: 2%;
+	color: #dbd9d9;
+}
+
+.learning{
+	margin-top: 26%;
+	margin-left: 5%;
+	font-size: 34px;
+	width : 20%;
+	border-color: white;
+	border-radius: 50px; 
+
+}
+
+
+.pButton{
+	width : 16%;
+	border-color: white;
+	border-radius: 50px; 
+	font-size: 34px;
+	margin-left: 5%;
+	margin-top: 6%;
+}
+
+.Box1 > button a  {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
