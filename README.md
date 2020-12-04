@@ -1,2 +1,2 @@
 # CoinView
-crypto tracker for the 100 frist cryptocurrencies
+crypto tracker for the 100 first cryptocurrencies
