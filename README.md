@@ -7,8 +7,8 @@ In this repository you'll find the current code for this project aiming to creat
 
 I'll make sure that at any time you're able to run the Dapp locally on your default browser by following these 3 easy steps :
 
-open console
-run "npm install"
-run "npm start"
+    run "npm start"
+    run "npm install"
+    open console
 
 n.b. Don't forget to open Ganache and set up your Metamask account on local dev at first as the migration we'll be done by default on the local env.
